@@ -1,0 +1,30 @@
+This is the Sales data of a company having business in the following countries:
+1.USA
+2.Canada
+3.Mexico
+4.France 
+5.Germany. 
+
+Their clients are divided in to the following segments:
+1. Government
+2. Enterprise
+3. Channel Partners
+4. Other Business
+   1.Mid Market
+   2.Small Business
+
+Their products are:
+1. Amarilla
+2. Carretera
+3. Montana
+4. Paseo
+5. Velo
+6. VTT
+
+Of this Paseo is their highest selling Product bringing in Sales of $1.1M for 2013 and $3.7M for 2014.It should be notes that Paseo is bringing them all these sales without any discount offered for this product, which means that the price of this product can be still increased and it will not affect the sales of this product.
+Small Business Sector brought them the highest sales of $3.13M in sales for 2013 while Government Sector brought them $7.18M in sales for 2014.
+France brought them $1.79M is sales for 2013 which was the highest for that year while Germany brought them the highest sales of $4.39M for 2014.
+
+Enterprise segment brought them the highest loss of -$0.19M and -$.42M for years 2013 and 2014 respectively while Government Segment brought them the highest profit of $2.89M and $8.5M for years 2013 and 2014 respectively. This indicates that Government Segment is their highest profit making segment. They have to concentrate on Mexico as Mexico on brought them a total profit of $2.9M for the combined years of 2013 and 2014.
+
+ 
